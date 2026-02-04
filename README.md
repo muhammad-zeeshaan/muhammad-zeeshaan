@@ -1,6 +1,6 @@
 # I Love to BUILD: Products and Teams 💪
 
-I specialize in assisting Enterprise Shopify Plus Merchants with a wide range of services, including custom-built site optimizations and brand-new eCommerce design and development from the ground up. With a proven track record of supporting over 1,000 Shopify stores, I cater to diverse needs, including D2C, B2B, Wholesale, and Point of Sale (POS) solutions.
+I specialize in assisting Enterprise Shopify Plus Merchants with a wide range of services, including custom-built site optimizations and brand-new eCommerce design and development from the ground up. With a proven track record of supporting over 5,000 Shopify stores, I cater to diverse needs, including D2C, B2B, Wholesale, and Point of Sale (POS) solutions.
 
 My proficiency in crafting custom themes and developing online stores has led to remarkable success stories for my clients, with a combined revenue exceeding $1.2 billion. Count on me to infuse vibrancy and success into your upcoming project.
 
