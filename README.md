@@ -1,33 +1,31 @@
 # I Love to BUILD: Products and Teams 💪
 
-I specialize in assisting Enterprise Shopify Plus Merchants with a wide range of services, including custom-built site optimizations and brand-new eCommerce design and development from the ground up. With a proven track record of supporting over 5,000 Shopify stores, I cater to diverse needs, including D2C, B2B, Wholesale, and Point of Sale (POS) solutions.
+I build and scale revenue-first eCommerce ecosystems—where product, growth, and engineering operate as one system.
 
-My proficiency in crafting custom themes and developing online stores has led to remarkable success stories for my clients, with a combined revenue exceeding $1.2 billion. Count on me to infuse vibrancy and success into your upcoming project.
+I work with Enterprise Shopify Plus merchants to design, develop, and optimize high-performance commerce infrastructure. From conversion-focused storefronts to custom apps and backend systems, the goal is simple: drive measurable revenue and operational efficiency.
 
+Across 5,000+ Shopify stores, I’ve helped brands across D2C, B2B, Wholesale, and POS environments unlock growth through better systems, not just better design. The businesses I’ve contributed to have collectively generated over $1.2B in revenue.
 
-### My expertise spans a wide range of advanced technologies and platforms, including:
+I focus on building assets—not just projects.
 
-<li> CMS: Shopify, WordPress, BigCommerce
-<li> Languages: JavaScript, TypeScript, Python
-<li> Frameworks: ReactJS (NextJS, Remix, Gatsby, Polaris, Hydrogen), NodeJS (Express, NestJS)
-<li> UI Libraries: Material, Tailwind CSS, AntD, Bootstrap
-<li> Mobile Apps: React Native, Flutter, Kotlin, Swift
-<li> ORM: TypeORM, Prisma, Sequelize, Mongoose
-<li> Databases: MongoDB, PostgreSQL, MySQL, MariaDB, Redis
-<li> Queue Services: AWS SQS, Apache Kafka, RabbitMQ
-<li> Auth: Auth0, Amazon Cognito, Firebase Authentication, Passport
-<li> Payment APIs: PayPal, Stripe
-<li> AI APIs: OpenAI
-<li> DevOps: Docker, Kubernetes, Ansible, AWS (Lambda, DynamoDB, API Gateway, S3, etc.), GitLab, GitHub
+### What I actually do:
 
+<li> Architect revenue-first Shopify ecosystems (not just websites) 
+<li> Build and scale custom Shopify apps & SaaS products 
+<li> Optimize conversion, retention, and checkout performance 
+<li> Design scalable backend systems (APIs, automations, integrations) 
+<li> Align product, marketing, and engineering into one growth engine 
+<li> Lead teams and execution from 0 → scale
 
-### Do you create custom Shopify Apps?
+### Core stack & capabilities:
 
-Yes, I do. Check out my published Shopify Apps: https://apps.shopify.com/partners/chazify-apps
-
-### Do you create SaaS Products?
-
-Yes, I do. To see my portfolio or to schedule a meeting please email me: zeeshan@chazify.com
+<li> CMS: Shopify, WordPress, BigCommerce 
+<li> Languages: JavaScript, TypeScript, Python 
+<li> Frameworks: ReactJS (NextJS, Remix, Hydrogen), NodeJS (Express, NestJS) 
+<li> Mobile: React Native, Flutter, Kotlin, Swift 
+<li> Databases: MongoDB, PostgreSQL, MySQL, Redis 
+<li> Infra & DevOps: AWS, Docker, Kubernetes, CI/CD 
+<li> Payments & Integrations: Stripe, PayPal, APIs 
+<li> AI: OpenAI-powered workflows & automation
 
 #### 𝗛𝗶𝗿𝗲 me 𝗳𝗼𝗿 𝘁𝗵𝗲 𝗖𝗿𝗲𝗮𝘁𝗶𝘃𝗲 𝗗𝗲𝘀𝗶𝗴𝗻, 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁, 𝗮𝗻𝗱 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗼𝗳 𝘆𝗼𝘂𝗿 𝗽𝗿𝗼𝗷𝗲𝗰𝘁!
-
