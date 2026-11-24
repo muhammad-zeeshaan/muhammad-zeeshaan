@@ -1,31 +1,28 @@
 # I Love to BUILD: Products and Teams 💪
 
-I build and scale revenue-first eCommerce ecosystems—where product, growth, and engineering operate as one system.
+Hi, I'm Zeeshan, a software engineer turned founder.
 
-I work with Enterprise Shopify Plus merchants to design, develop, and optimize high-performance commerce infrastructure. From conversion-focused storefronts to custom apps and backend systems, the goal is simple: drive measurable revenue and operational efficiency.
+I started out writing code for clients as a freelancer. Today I run two companies: **Bigfolio LLC**, a Shopify agency, and **Chazify LLC**, where we build apps for Shopify merchants. The stores I've worked on have done **$250M+ in combined sales**.
 
-Across 5,000+ Shopify stores, I’ve helped brands across D2C, B2B, Wholesale, and POS environments unlock growth through better systems, not just better design. The businesses I’ve contributed to have collectively generated over $1.2B in revenue.
+I still love the building part most: turning an idea into a product, and a first hire into a team.
 
-I focus on building assets—not just projects.
+## What I build
 
-### What I actually do:
+- Shopify and Shopify Plus stores, from scratch or redesigns
+- Custom Shopify apps, like **Chazify Reviews** (star ratings and product reviews)
+- Hydrogen headless stores
+- Backend systems: APIs, integrations, and automations
+- Teams: I hired and trained my first developer myself, and grew from there
 
-<li> Architect revenue-first Shopify ecosystems (not just websites) 
-<li> Build and scale custom Shopify apps & SaaS products 
-<li> Optimize conversion, retention, and checkout performance 
-<li> Design scalable backend systems (APIs, automations, integrations) 
-<li> Align product, marketing, and engineering into one growth engine 
-<li> Lead teams and execution from 0 → scale
+## Tech stack
 
-### Core stack & capabilities:
+- **Platforms:** Shopify, Shopify Plus, WordPress, BigCommerce
+- **Languages:** JavaScript, TypeScript, Python, Liquid
+- **Frameworks:** React (Next.js, Remix, Hydrogen), Node.js (Express, NestJS)
+- **Mobile:** React Native, Flutter, Kotlin, Swift
+- **Databases:** MongoDB, PostgreSQL, MySQL, Redis
+- **DevOps:** AWS, Docker, Kubernetes, CI/CD
+- **Payments and integrations:** Stripe, PayPal, REST and GraphQL APIs
+- **AI:** OpenAI-powered workflows and automation
 
-<li> CMS: Shopify, WordPress, BigCommerce 
-<li> Languages: JavaScript, TypeScript, Python 
-<li> Frameworks: ReactJS (NextJS, Remix, Hydrogen), NodeJS (Express, NestJS) 
-<li> Mobile: React Native, Flutter, Kotlin, Swift 
-<li> Databases: MongoDB, PostgreSQL, MySQL, Redis 
-<li> Infra & DevOps: AWS, Docker, Kubernetes, CI/CD 
-<li> Payments & Integrations: Stripe, PayPal, APIs 
-<li> AI: OpenAI-powered workflows & automation
-
-#### 𝗛𝗶𝗿𝗲 me 𝗳𝗼𝗿 𝘁𝗵𝗲 𝗖𝗿𝗲𝗮𝘁𝗶𝘃𝗲 𝗗𝗲𝘀𝗶𝗴𝗻, 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁, 𝗮𝗻𝗱 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗼𝗳 𝘆𝗼𝘂𝗿 𝗽𝗿𝗼𝗷𝗲𝗰𝘁!
+Want to work together? Say hi: [bigfolio.co/contact-us](https://bigfolio.co/contact-us)
