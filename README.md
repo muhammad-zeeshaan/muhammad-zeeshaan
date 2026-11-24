@@ -25,4 +25,4 @@ I still love the building part most: turning an idea into a product, and a first
 - **Payments and integrations:** Stripe, PayPal, REST and GraphQL APIs
 - **AI:** OpenAI-powered workflows and automation
 
-Want to work together? Say hi: [bigfolio.co/contact-us](https://bigfolio.co/contact-us)
+Want to work together? Book a slot: [bigfolio.co/contact-us](https://bigfolio.co/contact-us)
